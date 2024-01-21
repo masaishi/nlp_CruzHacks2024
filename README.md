@@ -1,4 +1,6 @@
-# nlp_CruzHacks2024
+# Sitegeist NLP Pipeline
+
+[parent(Sitegeist)](https://github.com/masaishi/Sitegeist)
 
 ## Overview
 
